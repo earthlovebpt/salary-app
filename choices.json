@@ -1,0 +1,68 @@
+{
+  "Country": [
+    "United States of America",
+    "United Kingdom of Great Britain and Northern Ireland",
+    "Australia",
+    "Netherlands",
+    "Germany",
+    "Sweden",
+    "France",
+    "Spain",
+    "Brazil",
+    "Portugal",
+    "Italy",
+    "Canada",
+    "Switzerland",
+    "India",
+    "Austria",
+    "Norway",
+    "Poland",
+    "Denmark",
+    "Israel"
+  ],
+  "EdLevel": [
+    "Bachelor's degree",
+    "Other",
+    "Master's degree",
+    "Professional degree"
+  ],
+  "DevType": [
+    "Developer, back-end",
+    "Developer, front-end",
+    "Developer, full-stack",
+    "Other",
+    "Data scientist or machine learning specialist",
+    "Research & Development role",
+    "Developer, desktop or enterprise applications",
+    "Engineer, data",
+    "Developer, embedded applications or devices",
+    "Engineering manager",
+    "Cloud infrastructure engineer",
+    "Developer, mobile",
+    "DevOps specialist",
+    "Senior Executive (C-Suite, VP, etc.)",
+    "Academic researcher"
+  ],
+  "OrgSize": [
+    "5,000 to 9,999 employees",
+    "100 to 499 employees",
+    "1,000 to 4,999 employees",
+    "10 to 19 employees",
+    "2 to 9 employees",
+    "10,000 or more employees",
+    "500 to 999 employees",
+    "20 to 99 employees",
+    "Just me - I am a freelancer, sole proprietor, etc.",
+    "I don\u2019t know"
+  ],
+  "Age": [
+    "45-54 years old",
+    "25-34 years old",
+    "35-44 years old",
+    "55-64 years old",
+    "18-24 years old",
+    "65 years or older",
+    "Prefer not to say",
+    "Under 18 years old"
+  ]
+}
