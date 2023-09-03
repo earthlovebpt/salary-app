@@ -3,10 +3,10 @@ import json
 import lightgbm as lgb
 import pandas as pd
 
-with open("choices.json") as json_file:
+with open("notebooks/choices.json") as json_file:
     choice_dict = json.load(json_file)
 
-model = lgb.Booster(model_file="model.txt")
+model = lgb.Booster(model_file="notebooks/model.txt")
 
 
 def show_predict_page():

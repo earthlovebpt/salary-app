@@ -37,7 +37,7 @@ def load_data():
     return dropped_df
 
 df = load_data()
-with open("choices.json") as json_file:
+with open("notebooks/choices.json") as json_file:
     choice_dict = json.load(json_file)
 
 def show_insights_page():
