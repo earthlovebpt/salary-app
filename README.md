@@ -7,11 +7,12 @@ https://insights.stackoverflow.com/survey
 ## Result
 |Model|MAE|RMSE|MAPE|
 |:---:|:---:|:---:|:---:|
-|Linear Regression  |25907|35526|17.99|
-|RandomForest       |27117|37974|20.69|
-|LightGBM           |24585|34432|18.29|
+|Linear Regression  |25907|35526|17.99%|
+|RandomForest       |27117|37974|20.69%|
+|LightGBM           |24585|34432|18.29%|
 
-The score was evalated by using 5-fold Cross Validation
+The score was evalated by using 5-fold Cross Validation.
+The labels are annual salary in US dollars.
 ## Deployment
 ### Local
 ```
